@@ -143,6 +143,7 @@ footer .links {
 footer .links li {
 	padding: 8px;
 	margin-right: 5px;
+	white-space:nowrap;
 }
 
 a{
